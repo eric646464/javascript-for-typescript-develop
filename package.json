@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/eric646464/javascript-for-typescript-develop/issues"
   },
-  "homepage": "https://github.com/eric646464/javascript-for-typescript-develop#readme"
+  "homepage": "https://github.com/eric646464/javascript-for-typescript-develop#readme",
+  "devDependencies": {
+    "ts-node": "^8.10.2"
+  }
 }
